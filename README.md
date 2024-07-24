@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Armin Rafiee Moghaddam</h1>
-<h3 align="center">This is my first challenge in html and css</h3>
-<b><p> it is not responsive</p></b>
+<h3 align="center">it is not responsive</h3>
+<b><p>This is my first challenge</p></b>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armiinrafiee&label=Profile%20views&color=0e75b6&style=flat" alt="armiinrafiee" /> </p>
 
