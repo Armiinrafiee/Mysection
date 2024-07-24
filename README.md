@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Armin Rafiee Moghaddam</h1>
+<h1 align="center">Armin Rafiee Moghaddam</h1>
 <h3 align="center">it is not responsive</h3>
 <b><p>This is my first challenge</p></b>
 
